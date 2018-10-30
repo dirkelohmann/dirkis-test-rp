@@ -1,9 +1,8 @@
-***************************
-Fange nochmal von vorne an
-***************************
-Dies ist jetzt ein fast komplett neue Version des Textes
-
-Wird nun von Zapier
-
-- in Google Sheets protokolliert
-- von der Branch Oktober in die Branch Master übertragen (Pull Request)
+<html> 
+ <head> 
+   <title>Dies ist ein Titel in Azure</title> 
+   </head> 
+ <body> 
+   <h1>Hallo Wochenende - dies ist in Azure</h1> 
+   </body> 
+</html> 
