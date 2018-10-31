@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<html> 
 <head> 
 <title>Dies ist ein Titel in Azure von Dirk</title> 
@@ -5,4 +6,13 @@
 <body> 
 <h1>Dies ist ein text von Dirk in Azure - 31.10.2018</h1> 
 </body> 
+=======
+<html> 
+ <head> 
+   <title>Dies ist ein Titel in Azure</title> 
+   </head> 
+ <body> 
+   <h1>Hallo Wochenende - dies ist in Azure</h1> 
+   </body> 
+>>>>>>> 14271984dd1fc3516ccadd37ea2f6970bb76e2a8
 </html> 
